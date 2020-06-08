@@ -1,4 +1,5 @@
-# Sample code downloaded from Stack overflow :)
+#sample code downloaded from stackoverflow site - I am not a programmer :) :) :)
+#My first git commit and checkout..!
 import subprocess,os,threading,time
 from queue import Queue
 lock=threading.Lock()
